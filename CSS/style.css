@@ -1,0 +1,15 @@
+body {
+  background-color: #f5deb4;
+}
+table,
+td,
+th {
+  border: 1px solid black;
+}
+.centeredNormal {
+  text-align: center;
+}
+.centeredBold {
+  text-align: center;
+  font-weight: bold;
+}
